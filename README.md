@@ -32,6 +32,6 @@ Note: This miner only works at goldenminer.net
 DevFee % 1
 
 * This miner works at Vast.ai !
-* There is another release for Vast.ai
+* There is another release for HiveOS
 * Check [here](https://github.com/gokyuzugokturk/igotek-nock-prover-hiveos) for HiveOS release.
 
