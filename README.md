@@ -2,7 +2,7 @@ iGoTeK Nock Prover for Vast.ai
 
 Use this NOCK Prover for mining at goldenminer.net
 
-Video Tutorial: https://youtu.be/CLJTqaLlNoA
+Video Tutorial: https://youtu.be/CLJTqaLlNoA  
 Discord: https://discord.gg/w6GuBsWHQa
 
 *****
