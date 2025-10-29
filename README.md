@@ -17,7 +17,7 @@ Connect to your rented GPU server by using PowerShell.
 *****
 
 INSTALLATION COMMAND:  
-wget https://github.com/gokyuzugokturk/igotek-nock-prover-vast.ai/releases/download/v1.9/nock-1.9.tar.gz && tar -xzf nock-1.8.tar.gz && ./setup.sh
+wget https://github.com/gokyuzugokturk/igotek-nock-prover-vast.ai/releases/download/v1.9/nock-1.9.tar.gz && tar -xzf nock-1.9.tar.gz && cd nock && ./setup.sh
 
 Type nano wallet.conf after installation is complete.  
 Delete inside and paste your PUBKEY  
