@@ -25,7 +25,8 @@ CTRL + X
 CTRL + Y  
 ENTER
 
-MINER RUN COMMAND:  
+MINER RUN COMMAND: 
+./run  
 cd nock & ./run
 
 Note: This miner only works at goldenminer.net
