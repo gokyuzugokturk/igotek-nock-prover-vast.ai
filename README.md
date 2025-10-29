@@ -16,6 +16,11 @@ Connect to your rented GPU server by using PowerShell.
 
 *****
 
+REMOVE OLD RELEASE COMMAND: 
+cd && rm -rf nock
+
+*****
+
 INSTALLATION COMMAND:  
 wget https://github.com/gokyuzugokturk/igotek-nock-prover-vast.ai/releases/download/v1.9/nock-1.9.tar.gz && tar -xzf nock-1.9.tar.gz && cd nock && ./setup.sh
 
