@@ -16,7 +16,7 @@ Connect to your rented GPU server by using PowerShell.
 
 *****
 
-REMOVE OLD RELEASE COMMAND: 
+REMOVE OLD RELEASE COMMAND:  
 cd && rm -rf nock
 
 *****
